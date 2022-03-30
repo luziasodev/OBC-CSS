@@ -6,7 +6,7 @@ Those projects are exercises to practice CSS concepts such as links, colors, bac
 <br>
      <img src="https://user-images.githubusercontent.com/89281588/160890132-21b0601d-94a5-47e3-b0d6-e3dea2bfb141.jpg" width=50% height=50%>
      
-## treinamento de astronautas
+## css_site
 
 <br>
      <img src="https://user-images.githubusercontent.com/89281588/160891286-92941495-be93-43a5-8114-04a0a5b19121.jpg" width=50% height=50%>
